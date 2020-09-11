@@ -1,0 +1,29 @@
+
+section {
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+}
+.divsection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.enlaceimg {
+    padding: 10px;
+}
+
+.imgsection1 {
+    height: 400px;
+    width: 300px;
+    /* margin: 50px; */
+
+}
+.imgsection {
+    height: 400px;
+    width: 300px;
+    /* margin: 50px; */
+
+}
